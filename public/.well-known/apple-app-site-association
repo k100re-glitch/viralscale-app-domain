@@ -1,0 +1,14 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "8HAJ6UQBPJ.app.viralscale",
+        "paths": ["/oauth/", "/oauth/*"]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": ["8HAJ6UQBPJ.app.viralscale"]
+  }
+}
